@@ -3,16 +3,16 @@
 * LinkedIn: http://www.linkedin.com/in/sergeytodyshev
 
 ## Summary
-* 13 years in software development
+* 14 years in software development
 * 11 years in C# and .NET development
 
 ## Skills
 * C#, JavaScript, CoffeeScript, TypeScript - professional level
-* Java - intermediate level with small experience since 2016
-* Golang - intermediate level with small experience since 2015
+* Java - intermediate level with experience since 2016
+* Golang - intermediate level with experience since 2015
 * C/C++ - about 5 years of experience, but without practice since 2008
 * F# - beginner level
-* Python - have knowledge, but have no enough practice to be productive
+* Python - beginner level, but have no enough practice to be productive
 * Ruby - beginner level
 * ActionScript - professional level, but have no interest anymore
 
