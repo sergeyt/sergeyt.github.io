@@ -1,4 +1,4 @@
-* Email: stodyshev@gmail.com
+* [Email](stodyshev@gmail.com)
 * [LinkedIn Profile](https://www.linkedin.com/in/sergeytodyshev)
 * [GitHub Profile](https://github.com/sergeyt)
 
