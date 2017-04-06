@@ -1,6 +1,6 @@
-* Programmer from Russia
 * Email: stodyshev@gmail.com
-* LinkedIn: http://www.linkedin.com/in/sergeytodyshev
+* [LinkedIn Profile](https://www.linkedin.com/in/sergeytodyshev)
+* [GitHub Profile](https://github.com/sergeyt)
 
 ## Summary
 * 14 years in software development
