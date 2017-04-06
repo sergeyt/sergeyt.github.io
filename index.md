@@ -5,6 +5,7 @@
 ## Summary
 * 14 years in software development
 * 11 years in C# and .NET development
+* Polyglot programmer
 
 ## Skills
 * C#, JavaScript, CoffeeScript, TypeScript - professional level
@@ -24,10 +25,11 @@
 
 ### 2016 - present, [Xored](http://www.xored.com/)
 
-* Integration of B2B web apps for the communications industry to the private Cloud. Using Javascript, Java, RESTful Web Services, Go, Docker.
+* Integration of B2B web apps for the communications industry to the private Cloud. Using JavaScript, Java, RESTful Web Services, Go, Docker.
+* Development of [Spirent Velocity](https://www.spirent.com/Products/velocity) platform.
 
 ### 2011 - 2016, [GrapeCity](http://www.grapecity.com/us/)
-* One of principal engineer of [Active Reports](http://activereports.grapecity.com/) and [Active Reports Server](http://activereports.grapecity.com/Products/ActiveReportsServer/) components. Made a significant contribution improving performance of report engine included to latest releases of ActiveReports.
+* One of principal engineer of [Active Reports](http://activereports.grapecity.com/) and [Active Reports Server](http://activereports.grapecity.com/Products/ActiveReportsServer/) components. Made a significant contribution improving performance of report engine included to latest releases of Active Reports.
 
 ### 2009 - 2010, CodeFibers
 * Principal engineer of [CarbonDocs](http://carbondocs.com/) - fast HTML rendering engine with parallel pipeline with ASP.NET-like template system capable to generate PDF, Image documents.
@@ -37,15 +39,15 @@
 * Development of [Data Dynamics Reports](http://www.datadynamics.com/Products/DDRPT/Overview.aspx) components.
 
 ### 2003 - 2004, [Dioptic](http://dioptic.de/)
-* Principal enginieer of voXcat - tomography analysis software for Dioptic. See screenshots: [1](https://sergeyt.github.io/voxcat/1.jpg), [2](https://sergeyt.github.io/voxcat/2.jpg), [3](https://sergeyt.github.io/voxcat/3.jpg).
+* Tomography analysis software - voXcat for Dioptic. Screenshots: [1](https://sergeyt.github.io/voxcat/1.jpg), [2](https://sergeyt.github.io/voxcat/2.jpg), [3](https://sergeyt.github.io/voxcat/3.jpg).
 
 ### 2002 - 2004, [CadWise](http://cadwise-n.ru/)
-* Working on AutoCAD runtime extensions like Power Studio
-* Implemented data access layer to query and store data in Microsoft Access Database
-* Created GUI for embedded databases used in major company products
+* Development of AutoCAD runtime extensions like Power Studio
+* Development of Data Access Layer to query and store data in Microsoft Access Database
+* Development of shared UI components for embedded databases used in all company products
 
 ### 2002 - 2007, [IAE](http://www.iae.nsk.su/index.php/en)
-* Implemented Device Manager - hardware abstraction layer to control multiple devices of unique Circle Laser Writing System created by [IAE](http://www.iae.nsk.su/index.php/en). [This screenshot](https://sergeyt.github.io/iae/dm.jpg) shows very old UI of Device Manager created in 2003-2004 period.
-* Abstract Control System - allows to draw visual programs to control real devices something similar to [LabVIEW](http://www.ni.com/labview/). [This old screenshot](https://sergeyt.github.io/iae/dd.jpg) shows UI of the initial prototype.
-* CPython integration to CLWS software
-* Worked on software for phase-shifting interferometers, profilometer.
+* Development of Device Manager - hardware abstraction layer to control multiple devices of unique Circle Laser Writing System created by [IAE](http://www.iae.nsk.su/index.php/en). [Here is screenshot](https://sergeyt.github.io/iae/dm.jpg) of user interface for Device Manager created in 2003-2004 period.
+* Abstract Control System - allows to draw visual programs to control real devices something similar to [LabVIEW](http://www.ni.com/labview/). [Here is screenshot](https://sergeyt.github.io/iae/dd.jpg) of user interface for initial prototype.
+* Integration of CPython scripting to CLWS software
+* Software for phase-shifting interferometers and profilometer.
