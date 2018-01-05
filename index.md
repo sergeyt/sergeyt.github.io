@@ -19,7 +19,8 @@ Current Software Engineer at Xored. 14 years experience specializing in any kind
 
 ### 2011 - 2016, [GrapeCity](http://www.grapecity.com/us/)
 
-* One of principal engineer of [Active Reports](http://activereports.grapecity.com/) and [Active Reports Server](http://activereports.grapecity.com/Products/ActiveReportsServer/) components. Made a significant contribution improving performance of report engine included to latest releases of Active Reports.
+* Development of [Active Reports](http://activereports.grapecity.com/) and [Active Reports Server](http://activereports.grapecity.com/Products/ActiveReportsServer/) components.
+* Made a significant contribution rewriting report engine to dramatically boost performance. This is reflected in latest releases of Active Reports.
 
 ### 2009 - 2010, CodeFibers
 
