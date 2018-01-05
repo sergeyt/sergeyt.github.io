@@ -44,7 +44,7 @@ Current Software Engineer at Xored. 14 years experience specializing in any kind
 ### 2002 - 2007, [IAE](http://www.iae.nsk.su/index.php/en)
 
 * Development of Device Manager - hardware abstraction layer to control multiple devices of unique Circle Laser Writing System created by [IAE](http://www.iae.nsk.su/index.php/en). [Here is screenshot](https://sergeyt.github.io/iae/dm.jpg) of user interface for Device Manager created in 2003-2004 period.
-* Abstract Control System - allows to draw visual programs to control real devices something similar to [LabVIEW](http://www.ni.com/labview/). [Here is screenshot](https://sergeyt.github.io/iae/dd.jpg) of user interface for initial prototype.
+* Abstract Control System - allows drawing visual programs to control real devices something similar to [LabVIEW](http://www.ni.com/labview/). [Here is screenshot](https://sergeyt.github.io/iae/dd.jpg) of user interface for initial prototype.
 * Integration of CPython scripting to CLWS software
 * Software for phase-shifting interferometers and profilometer.
 
