@@ -26,7 +26,7 @@ Current Software Engineer at Xored. 14 years experience specializing in any kind
 
 * Principal engineer of [CarbonDocs](http://carbondocs.com/) - fast HTML rendering engine with parallel pipeline with ASP.NET-like template system capable to generate PDF, Image documents.
 
-### 2007 – 2009, [DataWorks](http://www.dataworks.co/)
+### 2007 – 2009, [Data Dynamics](http://www.datadynamics.com)
 
 * Principal author of cross-compiler from .NET bytecode (CIL) to Adobe Flash Player bytecode (ABC). Since 2009 the compiler is used to translate [Active Reports](http://www.componentone.com/SuperProducts/ActiveReports/) Flash Viewer assembly into SWF file runnable in Adobe Flash Player. Unfortunately the compiler is not maintained since 2009, but it is very stable (covered with thousands of tests) and still running on build machines to compile Flash Viewer.
 * Development of [Data Dynamics Reports](http://www.datadynamics.com/Products/DDRPT/Overview.aspx) components.
