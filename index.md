@@ -31,9 +31,9 @@ Current Software Engineer at Xored. 14 years experience specializing in any kind
 * Principal author of cross-compiler (binary translator) from .NET bytecode to Adobe Flash Player bytecode. Since 2009 the compiler is used to translate [Active Reports](http://www.componentone.com/SuperProducts/ActiveReports/) Flash Viewer assembly into SWF file runnable in Adobe Flash Player. Unfortunately the compiler is not maintained since 2009, but it is very stable (covered with thousands of tests) and still running on build machines to compile Flash Viewer.
 * Development of [Data Dynamics Reports](http://www.datadynamics.com/Products/DDRPT/Overview.aspx) components.
 
-### 2003 - 2004, [Dioptic](http://dioptic.de/)
+### 2003 - 2004, [DIOPTIC GmbH](http://dioptic.de/)
 
-* Tomography analysis software - voXcat for Dioptic. Screenshots: [1](https://sergeyt.github.io/voxcat/1.jpg), [2](https://sergeyt.github.io/voxcat/2.jpg), [3](https://sergeyt.github.io/voxcat/3.jpg).
+* voXcat - tomography analysis software. Screenshots: [1](https://sergeyt.github.io/voxcat/1.jpg), [2](https://sergeyt.github.io/voxcat/2.jpg), [3](https://sergeyt.github.io/voxcat/3.jpg).
 
 ### 2002 - 2004, [CadWise](http://cadwise-n.ru/)
 
