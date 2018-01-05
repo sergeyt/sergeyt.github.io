@@ -51,4 +51,4 @@ Current Software Engineer at Xored. 14 years experience specializing in any kind
 ## Education
 
 * 1999 – 2004, [Novosibirsk State University](http://www.nsu.ru/exp/index.jz?lang=en), Faculty of Information Technologies. Specialty: Computers, Complexes, Systems and Networks
-* 2004 - 2007, [Institute of Automation and Electrometry](http://www.iae.nsk.su/index.php/en), PhD student. I've done a lot of work here, but unfortunately not obtained PhD degree.
+* 2004 - 2007, [Institute of Automation and Electrometry](http://www.iae.nsk.su/index.php/en), PhD student
