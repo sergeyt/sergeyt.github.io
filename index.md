@@ -4,7 +4,7 @@
 
 ## Summary
 
-Current Software Engineer at Xored. 14 years experience specializing in any kind of software development. Interested in writing efficient and pure code, solving challenging tasks, and learning new technologies and tools.
+Current Software Engineer at Xored. 15 years of experience specializing in any kind of software development. I like writing efficient code, solving challenging tasks, learning new technologies and tools. I like using functional programming first before using OOP as a tool for problem solving.
 
 ## Programming Languages
 
