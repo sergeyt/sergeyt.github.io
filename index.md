@@ -17,7 +17,7 @@ I have two kids and two cats.
 ### 2016 - present, [Xored](http://www.xored.com/)
 
 * Integration of B2B web apps for the communications industry to the private Cloud. Using JavaScript, Java, RESTful Web Services, Go, Docker.
-* Development of [Spirent Velocity](https://www.spirent.com/Products/velocity) platform.
+* Development of [Spirent Velocity](https://www.spirent.com/Products/velocity) automation platform.
 
 ### 2011 - 2016, [GrapeCity](http://www.grapecity.com/us/)
 
