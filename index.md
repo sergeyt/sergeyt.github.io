@@ -6,7 +6,7 @@
 
 Currently I am a Software Engineer at Xored. 15 years of experience specializing in any kind of software development.
 I like writing efficient code, solving challenging tasks, learning new technologies and tools.
-I have two beatuful kids and two funny cats.
+I have two beautiful kids and two funny cats.
 
 ## Programming Languages
 
