@@ -6,7 +6,7 @@
 
 Currently I am a Software Engineer at Xored. 15 years of experience specializing in any kind of software development.
 I like writing efficient code, solving challenging tasks, learning new technologies and tools.
-I have two kids and two cats.
+I have two beatuful kids and two funny cats.
 
 ## Programming Languages
 
@@ -17,7 +17,7 @@ I have two kids and two cats.
 ### 2016 - present, [Xored](http://www.xored.com/)
 
 * Integration of B2B web apps for the communications industry to the private Cloud. Using JavaScript, Java, RESTful Web Services, Go, Docker.
-* Development of [Spirent Velocity](https://www.spirent.com/Products/velocity) automation platform.
+* Development of [Spirent Velocity](https://www.spirent.com/Products/velocity) automation platform. Linux, Java, Go, React, Redux.
 
 ### 2011 - 2016, [GrapeCity](http://www.grapecity.com/us/)
 
