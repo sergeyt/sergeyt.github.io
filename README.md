@@ -1,5 +1,2 @@
-sergeyt.github.io
-=================
-
-Personal web pages
-
+Professional Profile
+====================
