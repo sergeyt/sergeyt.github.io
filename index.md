@@ -5,7 +5,7 @@
 ## Summary
 
 I am a software engineer with 15 years of experience specializing in any kind of programming.
-I like writing efficient code, solving challenging tasks, learning new technologies and programming tools.
+I like writing elegant and efficient code, solving challenging tasks, learning new technologies and programming tools.
 I have two beautiful kids and two funny cats.
 
 ## Work Experience
