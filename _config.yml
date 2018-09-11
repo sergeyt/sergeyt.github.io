@@ -1,7 +1,7 @@
 title: Sergey Todyshev
-description: Professional profile
+description: Professional Profile
 google_analytics: 
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-slate
 
 gems:
