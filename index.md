@@ -8,16 +8,6 @@ I am a software engineer with 15 years of experience specializing in any kind of
 I like writing efficient code, solving challenging tasks, learning new technologies and programming tools.
 I have two beautiful kids and two funny cats.
 
-## Programming Languages
-
-In order of productivity:
-
-* JavaScript/TypeScript
-* C#
-* Golang
-* Python
-* Java
-
 ## Work Experience
 
 ### 2016 - present, Full Stack Engineer, [Xored](http://www.xored.com/)
