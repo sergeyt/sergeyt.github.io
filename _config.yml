@@ -2,7 +2,7 @@ title: Sergey Todyshev
 description: Professional profile
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-cayman
+theme: jekyll-theme-slate
 
 gems:
   - jekyll-mentions
