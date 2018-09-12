@@ -18,7 +18,7 @@ Historically [alt.js](http://alt.js.org/) was selected as classical implementati
 
 ### 2007 - 2016, Full Stack Engineer, [DataWorks](http://dataworks.co/)
 
-I was being a part of super dev team that working on development of huge reporting system now called [Active Reports](https://www.grapecity.com/en/activereports).
+I was being a part of super dev team that working on development of huge reporting system called [Active Reports](https://www.grapecity.com/en/activereports).
 Here I've made a significant contribution rewriting report engine that dramatically boosts performance of the engine.
 
 ## Education
