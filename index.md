@@ -12,9 +12,9 @@ I have two beautiful kids and two funny cats.
 
 ### 2016 - present, Full Stack Engineer, [Xored](http://www.xored.com/)
 
-Working on [Spirent Velocity](https://www.spirent.com/Products/velocity) automation platform.
+I was working on [Spirent Velocity](https://www.spirent.com/Products/velocity) automation platform.
 This is a very complex project having a huge frontend implemented in [React](https://reactjs.org/).
-Historically [alt.js](http://alt.js.org/) was selected as classical implementation of [Flux](https://facebook.github.io/flux/) approach and primary solution for state management. Since 2017 I've initiated integration of [Redux](https://redux.js.org/) as replacement of legacy alt.js. Now we are still migrating to Redux.
+Historically [alt.js](http://alt.js.org/) was selected as classical implementation of [Flux](https://facebook.github.io/flux/) approach and primary solution for state management. Since 2017 I've initiated integration of [Redux](https://redux.js.org/) as replacement of legacy alt.js. Now we are happily migrating to Redux.
 
 ### 2007 - 2016, Full Stack Engineer, [DataWorks](http://dataworks.co/)
 
