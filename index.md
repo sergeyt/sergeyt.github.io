@@ -1,6 +1,7 @@
-* [Email](mailto:stodyshev@gmail.com)
-* [LinkedIn Profile](https://www.linkedin.com/in/sergeytodyshev)
-* [GitHub Profile](https://github.com/sergeyt)
+* stodyshev@gmail.com
+* skype: sergey.todyshev
+* https://www.linkedin.com/in/sergeytodyshev
+* https://github.com/sergeyt
 
 ## Summary
 
