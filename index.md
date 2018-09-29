@@ -24,7 +24,7 @@ Here we even crafted a binary cross-compiler from .NET byte-code to Adobe Flash 
 
 Keywords: .NET, C#, JavaScript, RDL, Reporting, Data Retrieving and Processing, Windows, IIS
 
-### 2002 - 2007, Software Engineer, [Institute of Automation and Electrometry](http://www.iae.nsk.su/index.php/en)
+### 2002 - 2007, Software Engineer, [IAE](http://www.iae.nsk.su/index.php/en)
 
 Here as PhD student I've implemented hardware abstraction layer to control multiple devices of Circle Laser Writing System created and designed by IAE. This module allows creation of multiple device configurations, then you can easily load given configuration at runtime without recompilation of control program. This significantly reduced time and cost on testing all laboratory devices and debugging of control program on configurations with device emulators.
 
