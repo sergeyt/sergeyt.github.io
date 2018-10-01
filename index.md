@@ -1,4 +1,5 @@
-* stodyshev@gmail.com
+# Sergey Todyshev
+* email: stodyshev@gmail.com
 * skype: sergey.todyshev
 * https://www.linkedin.com/in/sergeytodyshev
 * https://github.com/sergeyt
@@ -8,6 +9,16 @@
 I am a software engineer with 15 years of experience specializing in any kind of programming.
 I like writing elegant and efficient code, solving challenging tasks, learning new technologies and programming tools.
 I have two beautiful kids and two funny cats.
+
+## Operating Systems
+
+* Linux (Debian, Ubuntu)
+* Microsoft Windows
+* Mac OS X
+
+## Programming Languages
+
+I am polyglot and can easily adopt to new language, but in these languages I have enough experience to be productive from first working days: C#, Java, JavaScript, Python, BASH, C/C++
 
 ## Work Experience
 
@@ -35,3 +46,9 @@ Keywords: C++, C#, Windows Driver Clients, Computed Aided Tomography, Software f
 
 * 1999 – 2004, [Novosibirsk State University](http://www.nsu.ru/exp/index.jz?lang=en), Faculty of Information Technologies. Specialty: Computers, Complexes, Systems and Networks
 * 2004 - 2007, [Institute of Automation and Electrometry](http://www.iae.nsk.su/index.php/en), PhD student
+
+## References
+
+* Scott Willeke - Manager at GrapeCity (currently Technical Product Manager at Smartsheet), Greater Seattle Area, WA, USA
+* Issam Elbaytam - Chief Software Architect at GrapeCity, Raleigh, NC, USA
+* Yuriy Kashnikov - VP of Engineering at Xored Software, Novosibirsk, Russia
