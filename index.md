@@ -6,7 +6,7 @@
 
 ## Summary
 
-I've been programming for a while. Believe it or not but I've started programming as a student
+I've been programming for a while. Believe it or not I've started programming as a student
 almost 20 years ago at university. I like writing elegant and efficient code, solving challenging tasks,
 learning new technologies and programming tools. I have two beautiful kids and two funny cats.
 
