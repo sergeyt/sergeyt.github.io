@@ -30,11 +30,11 @@ Keywords: Linux, Java, JavaScript, React, Redux, Flux, Golang, Python, PostgreSQ
 
 ### 2007 - 2016, Full Stack Engineer, [DataWorks](http://dataworks.co/)
 
-I was being a part of super dev team that working on development of huge reporting system called [Active Reports](https://www.grapecity.com/en/activereports). Here I've made a significant contribution rewriting report engine that dramatically boosts performance of the engine. Also contributed to development of ActiveReports Server.
+I was being a part of super dev team that working on development of complex reporting system called [Active Reports](https://www.grapecity.com/en/activereports) (RDL engine to be specific). Here I've made a significant contribution optimizing the RDL report engine with dramatic boost in performance. Also contributed to development of ActiveReports Server.
 
-Here I even had taken over super incredible project. It is cross-compiler that translates program on low level instruction by instruction from one machine language to another. Unfortanetely this project was internal tool and it does go to public, but it was successfully used in production in real-world applications.
+Here we even crafted a binary cross-compiler from .NET byte-code to Adobe Flash Player byte-code just to implement Active Reports Flash Viewer and this viewer was popular some time :) I was primary author of this cross-compiler coding major part of it.
 
-Keywords: .NET, C#, JavaScript, RDL, Reporting, Data Retrieving and Processing, Windows, IIS
+Keywords: .NET, C#, JavaScript, RDL, Reporting, Data Retrieving and Processing, Windows, IIS, Flash, ActionScript
 
 ### 2002 - 2007, Software Engineer, [IAE](http://www.iae.nsk.su/index.php/en)
 
